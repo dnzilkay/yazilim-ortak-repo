@@ -1,2 +1,4 @@
 deneme1
 deneme3/fethiye
+deneme2/deniz
+
